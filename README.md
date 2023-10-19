@@ -6,3 +6,5 @@ For high performance audio, we recommend using the [Oboe library][2] for develop
 
 [1]: https://help.github.com/en/articles/about-archiving-repositories
 [2]: https://github.com/google/oboe
+
+## 计算音频延迟：calculateCurrentOutputLatencyMillis
